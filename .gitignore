@@ -1,0 +1,13 @@
+# IDE Stuff
+.vscode/**
+.idea/**
+
+# Folders
+node_modules/**
+prisma/migrations/**
+build/**
+
+# Files
+package-lock.json
+prisma/dev.db
+prisma/dev.db-journal
